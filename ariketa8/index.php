@@ -28,6 +28,7 @@
 
         <button type="submit">Bidali</button>
         <button type="submit">Bidali</button>
+        <button type="submit">Prueba</button>
 
 
     </form>
