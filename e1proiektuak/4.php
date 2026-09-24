@@ -85,7 +85,7 @@ for ($i= 0 ; $i < 6; $i++) { // para que imprima solo 5 numeros
             echo "<td>$zenbaki </td>"; 
 
     if ($zenbaki %2 == 0) { // si entre 2 da 0 = bikoiti
-
+hola hola
    echo "<td> BAI </td>" ; 
     }
 else { 
